@@ -11415,6 +11415,13 @@ header.masthead-space {
   background-position: center center;
   background-size: cover;
 }
+header.namur {
+  background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1) ), url("../assets/img/header-bg-namur.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
   font-style: italic;
